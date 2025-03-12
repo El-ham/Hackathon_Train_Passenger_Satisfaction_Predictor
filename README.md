@@ -1,4 +1,4 @@
-# 🚄 Bullet Train Passenger Experience Prediction
+# Bullet Train Passenger Experience Prediction
 
 ## 🏆 Hackathon Winner Project
 This project was part of a **hackathon** conducted by **Massachusetts Institute of Technology (MIT)** as part of the *Data Science and Machine Learning: Making Data-Driven Decisions Program*. The hackathon ran from **Feb 1, 8:00 PM - Feb 16, 7:59 PM 2025**, with **over 40 teams participating**. 
